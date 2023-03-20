@@ -17,3 +17,4 @@ DatabaseService.connect(() => {
     console.log(`Server is running on ${config.server.address}`);
   });
 });
+  
